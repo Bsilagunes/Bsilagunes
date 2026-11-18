@@ -14,7 +14,6 @@
 
 <br><br>
 
-<em>Turning ideas into meaningful projects.</em>
 
 </div>
 

@@ -1,26 +1,30 @@
+ <div align="center">
+
 # Büşra Sıla Güneş
-### Cybersecurity | Software Development | Emerging Technologies
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Secure+Software;Exploring+Cybersecurity;Developing+with+Code;Interested+in+UAV+Technologies" alt="Typing SVG" />
-</p>
+### Software Developer | Cybersecurity | Emerging Technologies
 
-<p align="center">
-  <a href="https://github.com/Bsilagunes">
-    <img src="https://img.shields.io/badge/GitHub-Bsilagunes-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:busraslagunes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+*Developing software, exploring cybersecurity, and discovering new technologies.*
+
+<br>
+
+<a href="https://github.com/Bsilagunes">GitHub Profile</a>
+&nbsp; · &nbsp;
+<a href="mailto:busraslagunes@gmail.com">Email Me</a>
+
+<br><br>
+
+<em>Turning ideas into meaningful projects.</em>
+
+</div>
 
 ---
 
 ## About Me
 
-I am a software developer interested in **cybersecurity, software development, and emerging technologies**. I enjoy turning technical knowledge into practical projects and exploring how technology can solve real-world problems.
+I am a software developer interested in **software development, cybersecurity, and emerging technologies**. I enjoy transforming technical knowledge into practical projects and exploring how technology can solve real-world problems.
 
-My work and learning interests include:
+My technical interests and areas of work include:
 
 - Website security testing, vulnerability analysis, and system security.
 - Software development with Java, C++, Python, and Assembly.
@@ -29,70 +33,109 @@ My work and learning interests include:
 - Data analytics, robotics programming, and UAV technologies.
 - Cybersecurity and robotics coding education.
 
-I am also interested in professional project environments and continuously improving my technical skills through practical work and new technologies.
+I am continuously improving my technical skills through practical projects, research, and exploring new technologies.
 
 ## Technical Skills
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,php,js,bash" alt="Programming languages" />
 </p>
 
+Java · C++ · C# · Python · Assembly · PHP · JavaScript · SQL · Bash
+
 ### Web Development & Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,sqlite" alt="Web development and databases" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mysql,sqlite" alt="Web development technologies" />
 </p>
+
+HTML · CSS · JavaScript · PHP · Node.js · REST API · MySQL · Responsive Design · Web Security
 
 ### Tools & Systems
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Tools and systems" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Development tools" />
 </p>
 
-### Cybersecurity & Emerging Technologies
+Linux · Git · GitHub · VS Code
+
+### Cybersecurity
 
 - Web Application Security
+- Website Security Testing
 - Vulnerability Analysis
 - Firewall Configuration
-- Network and System Security
+- Network Security
 - Malware Analysis
 - Reverse Engineering
+- System Security
+
+### Data, Robotics & UAV Technologies
+
+- Data Analytics
 - Robotics Programming
 - UAV Technologies
-- Data Analytics
-- Autonomous and Embedded Systems
+- Autonomous Systems
+- Embedded Systems
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Area |
-|---|---|---|
-| Software & Coding Website | A website featuring software and programming content. | Web Development |
-| Fighter Aircraft Blog | A visual blog introducing fighter aircraft. | Web Development |
-| School Attendance Tracking System | A system for recording and tracking attendance. | Application Development |
-| Malware Analysis | A study focused on examining malicious software behavior. | Cybersecurity |
-| Data Analytics Study | A project focused on turning collected data into meaningful results. | Data Analytics |
+### Software & Coding Website
+A website bringing together software and programming-related content with a clear and accessible structure.
 
-More projects and experiments are available in my repositories.
+**Focus:** Web Development
+
+### Fighter Aircraft Blog
+A visual blog introducing fighter aircraft through informative content and imagery.
+
+**Focus:** Web Development
+
+### School Attendance Tracking System
+A web application designed to record student attendance and track absences using a database.
+
+**Focus:** Application Development · Database
+
+### Malware Analysis
+A cybersecurity study focused on examining malicious software behavior and understanding system protection methods.
+
+**Focus:** Cybersecurity
+
+### Data Analytics Study
+A project focused on collecting, analyzing, and transforming data into meaningful results.
+
+**Focus:** Data Analytics
+
+### Additional Work
+I also explore website security testing, firewall configuration, robotics programming, and UAV-related technologies.
+
+You can explore more of my projects through my GitHub repositories.
+
+---
 
 ## Current Focus
 
-- Improving my software development skills.
+- Improving my software development and programming skills.
 - Exploring cybersecurity and system security.
 - Developing web applications and database-driven projects.
 - Learning more about malware analysis and reverse engineering.
 - Exploring robotics, autonomous systems, and UAV technologies.
+- Building practical projects and expanding my technical knowledge.
+
+---
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bsilagunes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsilagunes&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bsilagunes&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bsilagunes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsilagunes&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
 
 ---
 
@@ -100,13 +143,16 @@ More projects and experiments are available in my repositories.
 
 I am open to learning opportunities, collaborations, and projects related to software development, cybersecurity, and emerging technologies.
 
-- **GitHub:** [@Bsilagunes](https://github.com/Bsilagunes)
-- **Email:** [busraslagunes@gmail.com](mailto:busraslagunes@gmail.com)
+**GitHub:** [@Bsilagunes](https://github.com/Bsilagunes)
 
-<p align="center">
-  <i>"Building secure solutions through curiosity, code, and continuous learning."</i>
-</p>
+**Email:** [busraslagunes@gmail.com](mailto:busraslagunes@gmail.com)
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+<div align="center">
+
+<br>
+
+*Curiosity drives innovation. Continuous learning creates progress.*
+
+**Thanks for visiting my profile!**
+
+</div>

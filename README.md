@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+
 
 # Büşra Sıla Güneş
 
@@ -141,6 +141,9 @@ I am open to learning opportunities, collaborations, and projects related to sof
 *Curiosity drives innovation. Continuous learning creates progress.*
 
 **Thanks for visiting my profile!**
+
+\</div>
+
 
 \</div>
 
